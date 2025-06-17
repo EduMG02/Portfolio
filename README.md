@@ -1,6 +1,6 @@
-# Portfolio ¡Hola, bienvenido a mi proyecto de portafolio!
+# Portfolio Hello, welcome to my portfolio project!
  
-## Herramientas utilizadas:
+## Tools used:
 
 * HTML
 
@@ -8,7 +8,7 @@
 
 * Flex-box
 
-## Hecho por:
+## Created by:
 
 ### Eduardo Garza
 
